@@ -13,15 +13,9 @@
 <p align="center">
   <sup>Kindly supported by:</sup><br>
 <a href="https://terminaltrove.com/?utm_campaign=github&utm_medium=referral&utm_content=web-check&utm_source=wcgh">
-  <img src="https://i.ibb.co/8jrrcZ0/IMG-7210.jpg" width="300" alt="Terminal Trove">
+  <img src="https://i.ibb.co/JWnSzt5c/122.png" width="300" alt="GitHub">
   <br>
   <strong>The $HOME of all things in the terminal.</strong>
-</a>
-<br>
-<a href="https://terminaltrove.com/newsletter?utm_campaign=github&utm_medium=referral&utm_content=web-check&utm_source=wcgh">
-  <sub>Find your next CLI / TUI tool and more at Terminal Trove,</sub>
-  <br>
-  <sup>Get updates on new tools on our newsletter.</sup>
 </a>
 </p>
 
