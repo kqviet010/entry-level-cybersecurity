@@ -5,14 +5,14 @@
 <img src="https://i.ibb.co/d0M0R81j/6420571.jpg" width="96" /><br />
 <b><i>Entry-level Security</i></b>
 <br />
-<b>🌐 <a href="https://web-check.xyz/](https://github.com/kqviet010/entry-level-cybersecurity">kqviet010</a></b><br />
+<b>🌐 <a href="https://github.com/kqviet010/entry-level-cybersecurity">kqviet010</a></b><br />
 
 </p>
 
 ---
 <p align="center">
   <sup>Kindly supported by:</sup><br>
-<a href="https://terminaltrove.com/?utm_campaign=github&utm_medium=referral&utm_content=web-check&utm_source=wcgh">
+<a href="https://github.com/kqviet010/entry-level-cybersecurity">
   <img src="https://i.ibb.co/JWnSzt5c/122.png" width="300" alt="GitHub">
   <br>
   <strong>The $HOME of all things in the terminal.</strong>
@@ -45,11 +45,17 @@
 ---
 
 ## About
-Get an insight into the inner-workings of a given website: uncover potential attack vectors, analyse server architecture, view security configurations, and learn what technologies a site is using.
+This project is a lightweight web reconnaissance tool designed to help beginners understand the fundamentals of Passive Reconnaissance and OSINT (Open Source Intelligence).
 
-Currently the dashboard will show: IP info, SSL chain, DNS records, cookies, headers, domain info, search crawl rules, page map, server location, redirect ledger, open ports, traceroute, DNS security extensions, site performance, trackers, associated hostnames, carbon footprint. Stay tuned, as I'll add more soon!
+The goal of this tool is to automate the gathering of publicly available information about a target website. By analyzing server headers, SSL configurations, and DNS records, this dashboard helps visualize the "attack surface" of a web application.
 
-The aim is to help you easily understand, optimize and secure your website.
+Current capabilities:
+
+- Infrastructure Analysis: Identifies server location, IP data, and associated hostnames.
+
+- Security Auditing: Scans for insecure HTTP headers and cookie attributes.
+
+- Network Mapping: Performs traceroutes and open port detection to map the network path.
 
 ### Screenshot
 
