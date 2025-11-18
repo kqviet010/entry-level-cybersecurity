@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://ibb.co/TB2Bs9pY" width="96" /><br />
+<img src="https://i.ibb.co/d0M0R81j/6420571.jpg" width="96" /><br />
 <b><i>Entry-level Security</i></b>
 <br />
 <b>🌐 <a href="https://web-check.xyz/](https://github.com/kqviet010/entry-level-cybersecurity">kqviet010</a></b><br />
