@@ -26,18 +26,12 @@
 - **[About](#about)**
   - [Screenshot](#screenshot)
   - [Live Demo](#live-demo)
-  - [Mirror](#mirror)
   - [Features](#features)
 - **[Project](#project)**
   - [#1: Basic Packet Sniffer](#packetsniffer)
     - [Option 1: Python](#packetsniffer---option-1-python)
   - [#2: ](#configuring)
   - [#3: ](#developing)
-- **[Community](#community)**
-  - [Contributing](#contributing)
-  - [Bugs](#reporting-bugs)
-  - [Support](#supporting)
-- **[License](#license)**
 
 ---
 
