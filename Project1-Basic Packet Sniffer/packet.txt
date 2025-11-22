@@ -1,0 +1,39 @@
+[*] Starting Sniffer on eth0...
+[+] New Packet: 34.117.41.85 -> 192.168.32.134 | Protocol: 6
+    L Port: 443 -> 35040
+[+] New Packet: 192.168.32.134 -> 34.117.41.85 | Protocol: 6
+    L Port: 35040 -> 443
+[+] New Packet: 34.117.41.85 -> 192.168.32.134 | Protocol: 6
+    L Port: 443 -> 35040
+[+] New Packet: 192.168.32.1 -> 224.0.0.22 | Protocol: 2
+[+] New Packet: 192.168.32.1 -> 224.0.0.22 | Protocol: 2
+[+] New Packet: 192.168.32.1 -> 224.0.0.251 | Protocol: 17
+[+] New Packet: 192.168.32.1 -> 224.0.0.251 | Protocol: 17
+[+] New Packet: 192.168.32.1 -> 224.0.0.252 | Protocol: 17
+[+] New Packet: 192.168.32.1 -> 224.0.0.251 | Protocol: 17
+[+] New Packet: 192.168.32.1 -> 224.0.0.22 | Protocol: 2
+[+] New Packet: 192.168.32.1 -> 224.0.0.251 | Protocol: 17
+[+] New Packet: 192.168.32.1 -> 224.0.0.22 | Protocol: 2
+[+] New Packet: 192.168.32.1 -> 224.0.0.251 | Protocol: 17
+[+] New Packet: 192.168.32.1 -> 224.0.0.251 | Protocol: 17
+[+] New Packet: 192.168.32.1 -> 224.0.0.251 | Protocol: 17
+[+] New Packet: 192.168.32.1 -> 224.0.0.251 | Protocol: 17
+[+] New Packet: 192.168.32.1 -> 224.0.0.22 | Protocol: 2
+[+] New Packet: 34.117.41.85 -> 192.168.32.134 | Protocol: 6
+    L Port: 443 -> 35040
+[+] New Packet: 192.168.32.134 -> 34.117.41.85 | Protocol: 6
+    L Port: 35040 -> 443
+[+] New Packet: 34.117.41.85 -> 192.168.32.134 | Protocol: 6
+    L Port: 443 -> 35040
+[+] New Packet: 34.117.41.85 -> 192.168.32.134 | Protocol: 6
+    L Port: 443 -> 35040
+[+] New Packet: 192.168.32.134 -> 34.117.41.85 | Protocol: 6
+    L Port: 35040 -> 443
+[+] New Packet: 34.117.41.85 -> 192.168.32.134 | Protocol: 6
+    L Port: 443 -> 35040
+[+] New Packet: 34.117.41.85 -> 192.168.32.134 | Protocol: 6
+    L Port: 443 -> 35040
+[+] New Packet: 192.168.32.134 -> 34.117.41.85 | Protocol: 6
+    L Port: 35040 -> 443
+[+] New Packet: 34.117.41.85 -> 192.168.32.134 | Protocol: 6
+    L Port: 443 -> 35040
