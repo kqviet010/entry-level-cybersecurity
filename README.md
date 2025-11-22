@@ -28,14 +28,11 @@
   - [Live Demo](#live-demo)
   - [Mirror](#mirror)
   - [Features](#features)
-- **[Usage](#usage)**
-  - [Deployment](#deployment)
-    - [Option#1: Netlify](#deploying---option-1-netlify)
-    - [Option#2: Vercel](#deploying---option-2-vercel)
-    - [Option#3: Docker](#deploying---option-3-docker)
-    - [Option#4: Source](#deploying---option-4-from-source)
-  - [Configuration Options](#configuring)
-  - [Developer Setup](#developing)
+- **[Project](#project)**
+  - [#1: Basic Packet Sniffer](#packetsniffer)
+    - [Option 1: Python](#packetsniffer---option-1-python)
+  - [#2: ](#configuring)
+  - [#3: ](#developing)
 - **[Community](#community)**
   - [Contributing](#contributing)
   - [Bugs](#reporting-bugs)
@@ -57,13 +54,7 @@ Current capabilities:
 
 - Network Mapping: Performs traceroutes and open port detection to map the network path.
 
-### Screenshot
 
-<details>
-      <summary>Expand Screenshot</summary>
+## #Project 1: Basic Packet Sniffer
 
-[![Screenshot](https://raw.githubusercontent.com/Lissy93/web-check/master/.github/screenshots/web-check-screenshot1.png)](https://web-check.as93.net/)
-      
-</details>
 
-[![Screenshot](https://i.ibb.co/r0jXN6s/web-check.png)](https://github.com/Lissy93/web-check/tree/master/.github/screenshots)
