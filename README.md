@@ -30,7 +30,7 @@
 - **[Project](#project)**
   - [#1: Basic Packet Sniffer](#packetsniffer)
     - [Option 1: Python](#packetsniffer---option-1-python)
-  - [#2: ](#configuring)
+  - [#2: Basic Sender Email](#configuring)
   - [#3: ](#developing)
 
 ---
